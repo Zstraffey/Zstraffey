@@ -1,8 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3BCDF7&height=120&section=header"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8yaG96cGN2MGNxb2Fpa2Z2N3YxMGE3Y3FlOWt1aHMweGp2b3JmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/abOKV9FJNuDXrwtWPN/giphy.gif" width="400" alt="gif"/>
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BCDF7&width=435&lines=One+step+at+a+time...;ADS+%40+FATEC+Arthur+de+Azevedo;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BCDF7&width=435&lines=One+step+at+a+time...;ADS+%40+FATEC+Arthur+de+Azevedoalt="Typing SVG" />
   </a>
 </div>
 
